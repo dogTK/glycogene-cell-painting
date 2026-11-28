@@ -1,0 +1,66 @@
+lectin,group,gene,expected_direction,rationale
+ConA,"precursor (GDP-Man, dolichol)",GMPPA,1,more high-mannose precursor
+ConA,"precursor (GDP-Man, dolichol)",GMPPB,1,more high-mannose precursor
+ConA,"precursor (GDP-Man, dolichol)",PMM2,1,more high-mannose precursor
+ConA,"precursor (GDP-Man, dolichol)",MPI,1,more high-mannose precursor
+ConA,"precursor (GDP-Man, dolichol)",DPM1,1,more high-mannose precursor
+ConA,"precursor (GDP-Man, dolichol)",DPM2,1,more high-mannose precursor
+ConA,"precursor (GDP-Man, dolichol)",DPM3,1,more high-mannose precursor
+ConA,"precursor (GDP-Man, dolichol)",ALG1,1,more high-mannose precursor
+ConA,"precursor (GDP-Man, dolichol)",ALG2,1,more high-mannose precursor
+ConA,"precursor (GDP-Man, dolichol)",ALG3,1,more high-mannose precursor
+ConA,"precursor (GDP-Man, dolichol)",ALG9,1,more high-mannose precursor
+ConA,"precursor (GDP-Man, dolichol)",ALG11,1,more high-mannose precursor
+ConA,"precursor (GDP-Man, dolichol)",ALG12,1,more high-mannose precursor
+ConA,mannose trimming (ER/Golgi),MAN1A1,-1,trims the mannose ConA binds
+ConA,mannose trimming (ER/Golgi),MAN1A2,-1,trims the mannose ConA binds
+ConA,mannose trimming (ER/Golgi),MAN1B1,-1,trims the mannose ConA binds
+ConA,mannose trimming (ER/Golgi),MAN1C1,-1,trims the mannose ConA binds
+ConA,mannose trimming (ER/Golgi),MAN2A1,-1,trims the mannose ConA binds
+ConA,mannose trimming (ER/Golgi),MAN2A2,-1,trims the mannose ConA binds
+ConA,glucose trimming (ER),MOGS,-1,moves glycans on toward trimming and processing
+ConA,glucose trimming (ER),GANAB,-1,moves glycans on toward trimming and processing
+ConA,glucose trimming (ER),PRKCSH,-1,moves glycans on toward trimming and processing
+ConA,complex type and branching,MGAT1,-1,converts high-mannose to complex / branched glycans that ConA binds less
+ConA,complex type and branching,MGAT2,-1,converts high-mannose to complex / branched glycans that ConA binds less
+ConA,complex type and branching,MGAT3,-1,converts high-mannose to complex / branched glycans that ConA binds less
+ConA,complex type and branching,MGAT4A,-1,converts high-mannose to complex / branched glycans that ConA binds less
+ConA,complex type and branching,MGAT4B,-1,converts high-mannose to complex / branched glycans that ConA binds less
+ConA,complex type and branching,MGAT5,-1,converts high-mannose to complex / branched glycans that ConA binds less
+WGA,sialic acid supply,GNE,1,more CMP-sialic acid
+WGA,sialic acid supply,NANS,1,more CMP-sialic acid
+WGA,sialic acid supply,CMAS,1,more CMP-sialic acid
+WGA,sialic acid supply,SLC35A1,1,more CMP-sialic acid
+WGA,sialyltransferases,ST3GAL1,1,adds sialic acid
+WGA,sialyltransferases,ST3GAL2,1,adds sialic acid
+WGA,sialyltransferases,ST3GAL3,1,adds sialic acid
+WGA,sialyltransferases,ST3GAL4,1,adds sialic acid
+WGA,sialyltransferases,ST3GAL5,1,adds sialic acid
+WGA,sialyltransferases,ST3GAL6,1,adds sialic acid
+WGA,sialyltransferases,ST6GAL1,1,adds sialic acid
+WGA,sialyltransferases,ST6GAL2,1,adds sialic acid
+WGA,sialyltransferases,ST6GALNAC1,1,adds sialic acid
+WGA,sialyltransferases,ST6GALNAC2,1,adds sialic acid
+WGA,sialyltransferases,ST6GALNAC3,1,adds sialic acid
+WGA,sialyltransferases,ST6GALNAC4,1,adds sialic acid
+WGA,sialyltransferases,ST6GALNAC6,1,adds sialic acid
+WGA,sialyltransferases,ST8SIA1,1,adds sialic acid
+WGA,sialyltransferases,ST8SIA4,1,adds sialic acid
+WGA,sialidases,NEU1,-1,removes sialic acid
+WGA,sialidases,NEU3,-1,removes sialic acid
+WGA,sialidases,NEU4,-1,removes sialic acid
+WGA,UDP-GlcNAc supply,GFPT1,1,more UDP-GlcNAc
+WGA,UDP-GlcNAc supply,GFPT2,1,more UDP-GlcNAc
+WGA,UDP-GlcNAc supply,GNPNAT1,1,more UDP-GlcNAc
+WGA,UDP-GlcNAc supply,PGM3,1,more UDP-GlcNAc
+WGA,UDP-GlcNAc supply,UAP1,1,more UDP-GlcNAc
+WGA,UDP-GlcNAc supply,SLC35A3,1,more UDP-GlcNAc
+WGA,GlcNAc antennae,MGAT1,1,adds GlcNAc
+WGA,GlcNAc antennae,MGAT2,1,adds GlcNAc
+WGA,GlcNAc antennae,MGAT4A,1,adds GlcNAc
+WGA,GlcNAc antennae,MGAT4B,1,adds GlcNAc
+WGA,GlcNAc antennae,MGAT5,1,adds GlcNAc
+WGA,GlcNAc antennae,B3GNT2,1,adds GlcNAc
+WGA,intracellular O-GlcNAc,OGT,1,"cells are permeabilised before staining, so WGA also sees O-GlcNAc"
+WGA,terminal GlcNAc removal,HEXA,-1,removes terminal GlcNAc
+WGA,terminal GlcNAc removal,HEXB,-1,removes terminal GlcNAc
